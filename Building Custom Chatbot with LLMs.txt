@@ -1,0 +1,20 @@
+for this attachment give scores based on below instruction. please share reason for marks deduction and improvement advice. for full score given, please suggest any better approach if possible.
+
+1.1 Innovation & creativity (Out of 15)
+if Learner has built multiple layers for end-to-end user interaction
+scoring criteria : (For BYOP) Award 100% marks if the learner has built all 3 layers: user interaction (for greeting & intent capture), functionality (for performing an external function), and response generation (from the output of the functionality layer). Award 50% marks if the learner has integrated only 2 layers (e.g., user interaction & functionality). Else, award 0%. (For Shopassist 2.0) Award 100% marks if the learner has added function calling api to the model with detailed description function description Award 50% marks if the learner has added function calling api to the model but not added any detailed function description Else, award 0%.
+
+1.2 Chatbot Evaluation (Out of 15)
+Learner has added evaluation for all the layers in the chatbot
+Scoring criteria : (For BYOP) Award 100% marks if the learner has added evaluation to validate the responses for all 3 layers. Award 50% marks if the learner has added evaluation for only 2 layers (e.g., user interaction & functionality). Else, award 0%. (For Shopassist 2.0) Award 100% marks if the learner has modified system message of the intent clarity layer accordingly. NOTE: If it is successfully integrated there is no need for any other layer Else 0%
+
+2.1 Quality of Chatbot (Out of 20)
+The learner has integrated all the layers through a dialogue management system
+Scoring criteria : (For BYOP) Award 100% marks if the learner has built the dialogue management system to manage all the 3 layers and handle exceptions Award 50% marks if the learner has built the dialogue management system to manage all the 3 layers only else 0% (For Shopassist 2.0) Award 100% marks if the learner has updated the dialogue management system to incorporate the new approach and handle exceptions Award 50% marks if the learner has built the dialogue management system to incorporate the new approach only Else 0%
+
+2.2 Efficiency of code (Out of 10)
+
+2.3 Effective interaction with external tools or APIs. (Out of 10)
+
+3.1 Seamless user-friendliness & interaction (Out of 15)
+

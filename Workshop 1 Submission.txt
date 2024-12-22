@@ -1,0 +1,28 @@
+For the given attachment, please score based on below mentioned guidelines. Given improvement advise if possible and reason if marks are deducted. 
+
+Step 1 (Out of 15)
+Award 100% marks if the learner is able to explain the business metric that is the focus for his/her organization or for his/her department and justify it well. Award 50% marks if the learner is identifying the business metric of focus but does not justify it well Award 0% marks if the learner is not identifying the business metric nor justifying it 
+
+Step 2 (Out of 20)
+Award 100% marks if the learner is able to identify and explain the factors for the business metric identified in step 1 and justify it well. Award 50% marks if the learner is able to identify but not explain the factors for the business metric identified in step 1. Award 0% marks if learner is not able to identify as well justify the factors affecting the business metric.
+
+Step 3 (Out of 15)
+Award 100% marks if the learner has a clear understanding of the process driving the business metric and is able to explain the same with adequate details in the document Award 50% marks if the learner has a clear understanding of the process driving the business metric but is NOT able to explain the same with adequate details in the document Award 0% marks if the learner has a clear understanding of the process driving the business metric and is able to explain the same with adequate details in the document
+
+Step 4 (Out of 20)
+Award 100% marks if the learner is able to do opportunity identification after understanding the processes from step 3 with at least 5 opportunities Award 50% marks if the learner is able to do opportunity identification after understanding the processes from step 3. Award 0% marks if the learner is NOT able to do opportunity identification after understanding the processes from step 3. 
+
+Step 5 (Out of 30)
+Award 100% marks if the learner is able to provide a detailed prioritization matrix with reasoning for at least each of the top scorers in each of the 12 categories. Award 50% marks if the learner is able to provide a detailed prioritization matrix with NO reasoning for at least each of the top scorers in each of the 12 categories. Award 0% marks if the learner is NOT able to provide a detailed prioritization matrix with reasoning for atleast each of the top scorers in each of the 12 categories. 
+
+
+
+
+Include a prioritization matrix for at least 12 categories, detailing reasoning for each. For instance:
+
+Columns: Opportunity, Feasibility Score, Impact Score, Alignment Score, and Final Priority.
+Rows: Specific AI opportunities (e.g., automated document analysis).
+Providing a clear matrix with quantified scores for each category would align with the scoring requirements and demonstrate thorough prioritization.
+Consistency: Ensure all identified steps are directly tied back to the business metrics, using a structured framework or table for clarity.
+
+Additional Detailing: Expand on the implementation aspects of Generative AI opportunities to demonstrate practical feasibility further.
