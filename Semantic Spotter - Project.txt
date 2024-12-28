@@ -1,0 +1,34 @@
+For the given attachment, please score based on below mentioned guidelines. Given improvement advise if possible and reason if marks are deducted. 
+
+1.1 Practicality (Out of 10)
+The problem statement defined by the learner is novel and can be solved using Generative AI and the appropriate dataset has been selected by the learner for solving the project.
+
+2.1 Workflow (Out of 20)
+Learner has properly implemented the system design workflow with effective code and functions.
+
+2.2 Innovation & creativity (out of 10)
+The learner has designed the system with practical understanding of the capabilities and limitations of LLMs.
+
+3.1 Search and Retrieval based Project
+(out of 20) The learner has processed and parsed the PDF document(s) properly
+
+(out of 20) The learner has chosen and appropriate chunking strategy and has stored all chunks
+
+(out of 20) The learner has successfully performed the embeddings and stored them in a vector database
+
+(out of 30) The learner has built the basic mechanism for performing semantic search against user queries.
+
+3.2 Agentic System based Project
+
+(out of 20) The learner has clearly defined and initialized the agent, defined the appropriate tools and the agent type.
+
+(out of 30) The appropriate Exectutor chain has been defined and runs with no errors.
+
+(out of 40) The learner has passed queries to evalute the agent and the model outputs the correct response.
+
+4.1 Comprehensive Documentation (Out of 30)
+Learner has provided comprehensive documentation for the project
+
+
+
+
