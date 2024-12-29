@@ -1,0 +1,55 @@
+For the given attachment, please score based on below mentioned guidelines. Given improvement advise if possible and reason if marks are deducted. 
+
+1.1 Innovation & creativity (out of 5)
+Learner has built all the 3 layers of the search system
+
+1.2 Workflow (out of 10)
+Learner has properly implemented the system design workflow with effective code and functions
+
+2.1 Text Processing & Chunking
+(out of 10)
+if The learner has processed and parsed the PDF document(s) properly
+(out of 5)
+if The learner has chosen and appropriate chunking strategy and has stored all chunks
+
+2.2 Performing Embeddings
+(out of 15)
+The learner has successfully performed the embeddings and stored them in a Chroma collection
+(Out of 5)
+The learner has experimented performing embeddings with at least 2 different embedding models
+
+3.1 Semantic Search Retrieval (out of 10)
+The learner has built the basic mechanism for performing semantic search against a user query
+
+3.2 Cache Implementation (out of 15)
+The learner has built a cache mechanism
+
+3.3 Re-Ranking Implementation
+(out of 15)
+The learner has implemented a re-ranking mechanism with cross-encoders
+(Out of 5)
+The learner has extracted the top 3 results
+
+4.1 Quality of Prompt
+(out of 10)
+The learner has included elements of. a good prompt
+(out of 5)
+The learner has constructed a relevant and quality prompt
+
+
+4.2 Generative Layer Implementation (out of 5)
+if The learner has properly implemented the generative layer
+
+5.1 Query Screenshots (out of 5)
+if The learner has shared all the required screenshots
+
+5.2 Query Performance
+(out of 5)
+The quality of the semantic search results are good and relevant to the queries
+(out of 5)
+The quality of the generative search answer is good and relevant to the query
+
+6.1 Comprehensive Documentation (out of 20)
+Learner has provided comprehensive documentation for the project
+
+
