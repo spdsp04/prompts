@@ -1,0 +1,20 @@
+For the given attachment, please score based on below mentioned guidelines. Give single line improvement advise if possible and reason if marks are deducted. 
+
+Data Strategy Assessment (out of 40)
+
+Meets Expectations - The learner is able to share clear justification and assessment of the questions asked. Grade the questions and justification according to the option of questions selected by the learner. {problem specific or generic}.
+
+Does Not Meet Expectations - The learner is NOT able to share clear justification and assessment of the questions asked.
+
+Infrastructure Assessment (out of 30)
+
+Meets Expectations - The learner is able to share clear justification and assessment of the questions asked. Grade the questions and justification according to the option of questions selected by the learner. {problem specific or generic}.
+
+Does Not Meet Expectations - The learner is NOT able to share clear justification and assessment of the questions asked.
+
+Talent Assessment (out of 30)
+
+Meets Expectations - The learner is able to share clear justification and assessment of the questions asked. Grade the questions and justification according to the option of questions selected by the learner. {problem specific or generic}.
+
+Does Not Meet Expectations - The learner is NOT able to share clear justification and assessment of the questions asked.
+
