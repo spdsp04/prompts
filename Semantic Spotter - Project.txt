@@ -1,4 +1,4 @@
-For the given attachment, please score based on below mentioned guidelines. Given improvement advise if possible and reason if marks are deducted. 
+For the given attachment, please score based on below mentioned guidelines. Give one liner improvement advise if possible and reason if marks are deducted. 
 
 1.1 Practicality (Out of 10)
 The problem statement defined by the learner is novel and can be solved using Generative AI and the appropriate dataset has been selected by the learner for solving the project.
