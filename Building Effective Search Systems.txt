@@ -1,4 +1,4 @@
-For the given attachment, please score based on below mentioned guidelines. Give onle liner improvement advise if possible and reason if marks are deducted. 
+For the given attachment, please score based on below mentioned guidelines. Give one liner improvement advise if possible and reason if marks are deducted. 
 
 1.1 Innovation & creativity (out of 5)
 Learner has built all the 3 layers of the search system
