@@ -1,0 +1,50 @@
+for this attachment give scores based on below instruction. please share one liner reason for marks deduction and improvement advice. please suggest any better approach if possible.
+
+1. Data Understanding, Preparation, and EDA
+
+1.1 Data Reading/Data Understanding
+
+Out of 8 if The learner has imported the .json data and created the dataframe from it. The learner also has to read the data and make the initial analysis out of it.
+
+1.2 Data Cleaning
+
+Out of 15 if The learner has to do the data cleaning operations like filtering text, removing missing values &amp; renaming column headers.
+
+1.3 Data Preprocessing
+
+Out of 15 if Data pre-processing steps are done using statistical operations like Lemmatization & POS tagging.
+
+1.4 Data Visualisation
+
+Out of 15 if The learner has done the visualisation steps for finding the word count distribution & n-gram distribution.
+
+
+2. Feature Extraction and Topic Modelling
+
+2.1 Feature Extraction
+
+Out of 7 if Features are extracted from the data using Td-Idf.
+
+2.2 Topic Modelling
+
+Out of 38 if Topic names are assigned to each complaint
+
+3. Model Building and Evaluation
+
+3.1 Model Building
+
+Out of 30 if Created multiple models using supervised learning
+
+3.2 Model inference
+
+Out of 7 if The learner has applied the best model to predict a  custom text to see its performance.
+
+4.1 Coding Guidelines - Good Practices
+
+Out of 5 if Code readability is good with appropriate indentations
+
+Out of 5 if Comments are used throughout the code to explain commands/steps. Appropriate naming of variables has been done (all model names)
+
+Out of 5 if Concise code and appropriate commands are used instead of lengthy ones
+
+
