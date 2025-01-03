@@ -18,3 +18,5 @@ Scoring criteria : (For BYOP) Award 100% marks if the learner has built the dial
 
 3.1 Seamless user-friendliness & interaction (Out of 15)
 
+4.1 Learner has provided comprehensive documentation for the project (Out of 15)
+
