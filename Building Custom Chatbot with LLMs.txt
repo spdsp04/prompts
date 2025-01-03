@@ -1,4 +1,4 @@
-for this attachment give scores based on below instruction. please share one liner reason for marks deduction and improvement advice. for full score given, please suggest any better approach if possible.
+for this attachment give scores based on below instruction. please share one liner reason for marks deduction and improvement advice. please suggest any better approach if possible.
 
 1.1 Innovation & creativity (Out of 15)
 if Learner has built multiple layers for end-to-end user interaction
