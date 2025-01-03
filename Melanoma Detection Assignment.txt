@@ -1,0 +1,54 @@
+for this attachment give scores based on below instruction. please share one liner reason for marks deduction and improvement advice. please suggest any better approach if possible.
+
+1. Data pipeline
+
+1.1 Data reading
+(Out of 5)Defined the path for train and test images
+Award 100% marks if the student has defined the paths for both train & test images correctly else 0%
+
+1.2 Dataloader
+(Out of 10)Created train & validation dataset from the train directory with a batch size of 32 . Resize your images to 180*180.
+Award 100% marks if the student has correctly created train & validataion dataset from the train directory created earlier. While creating the batch size should be 32 and it should be resized to 180*180. Award 50% marks if the student has only created the dataset without any processinig operations - batch size & resizing else 0%
+
+1.3 Data visualisation
+(Out of 5)Visualized one instance of all the nine classes present in the dataset
+Award 100% if the learner has visualized one instance of all the nine classes present in the dataset else 0%
+
+1.4 Augmentation
+(Out of 10)Chose an appropriate data augmentation strategy to resolve underfitting/overfitting
+Award 100% if the student has found the issue of overfitting in the model training and has correctly applied an augmentation strategy to add more images to the entire training dataset. else 0%
+
+1.5 Class Distribution
+(Out of 10)Examined the current class distribution in the training dataset
+Award 100% if the student has shown the class distribution of the training dataset and has correctly identfied - Which class has the least number of samples? - Which classes dominate the data in terms of the proportionate number of samples? Award 50% if the student has only visualised without any analysis done. else 0%
+
+1.6 Class imbalance handling
+(Out of 10) Rectified class imbalances present in the training dataset with Augmentor library
+Award 100% if the student has correctly implemented the starter codes to add 500 images to each class using Augmentor library. else 0%
+
+
+2. Model Building
+
+2.1 Model building on raw dataset
+
+(Out of 15)Created a CNN model, which can accurately detect 9 classes present in the original dataset.
+Award 100% if the student has accurately trained a CNN model for 20 epochs on the original training dataset. which are normalized to values between (0,1). Also the student has writen his/her findings after the model fit with evidence of overfitting/underfitting. Award 50 % if the student has build the model on the normalised images only but not provided any findings else 0%
+
+2.2 Model building on augmented dataset
+
+(out 0f 15) Created a CNN model, which can accurately detect 9 classes present in the augmented dataset.
+Award 100% if the student has accurately trained a CNN model using dropout layer for 20 epochs on the original training dataset, which are normalized to values between (0,1). Also the student writen his/her findings after the model fit with evidence that the overfitting/underfitting is removed. Award 50 % if the student has build the model on the normalised images only but not provided any findings else 0%
+
+2.3 Model building on rectified dataset
+
+(Out of 15) Created a CNN model, which can accurately detect 9 classes present in the rectified dataset.
+Award 100% if the student has accurately trained a CNN model using dropout layer for 30 epochs on the original training dataset. which are normalized to values between (0,1). Also the student has writen his/her findings after the model fit with evidence that the earlier found issues has been resolved. Award 50 % if the student has build the model on the normalised images only but not provided any findings else 0%
+
+
+3. Coding Guidelines
+
+
+(Out of 5) The text file should contain should be a GitHub repository link containing 2 files : Python file and a README file
+Award 100% marks if there is a GitHub repository link containing a python file and a README.md file. And README.md file contains a brief description of the project. There is no one straightforward description, give 100% if there is a description in a broad sense.
+
+
