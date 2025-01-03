@@ -1,0 +1,63 @@
+for this attachment give scores based on below instruction. please share one liner reason for marks deduction and improvement advice. please suggest any better approach if possible.
+
+1.1 img_idx (out of 6)
+img_idx is a list of numbers arranged in ascending order; from 0 to 30
+Do not give 50%. 100 % - if the img_idx is list from 0 to 30 ascending. 0 % - Otherwise.
+
+1.2 num_batches (out of 6)
+Expression for num_batches is correct
+Do not give 50%. 100 % - if the expression is int(len(t)/batch_size). 0 % - Otherwise.
+
+1.3 batch_labels (Out of 6)
+The dimensions of batch_labels is correct
+Do not give 50%. 100 % - x, y, z are correctly initialised; x is the length of img_idx and (y,z) are dimensions of the resized image. 0 % - Otherwise.
+
+1.4 Cropping and Resizing (out of 10)
+The image is first cropped and then resized
+100 % - if the aspect ratio of both sizes of images is maintained (1:1 if model used is Conv+RNN) and resized. 50 % - aspect ratio is not maintained and is resized. 0 % - Otherwise.
+
+1.5 Normalizing (out of 6)
+Normalization is performed on the images
+Do not give 50%. 100 % - any kind of normalization is performed as far as noramlization is performed. 0 % - Otherwise.
+
+1.6 batches remaining after full batches (out of 16)
+Code for the batch left after the full batches are processed (this happens when the total dataset is not exactly divisible with the batch size); the last section of the generator code
+100% - the modulo functionality is used and 'num_batches' is used while reading the images. All other preprocessing is done as above. 50% - 'if' condition is missing. 0 % - Otherwise.
+
+1.7 Generator successfully fetches batches (out of 10)
+The training is able to happen with the generator created
+Do not give 50%. 100 % - Run the generator with the correct model. If the model is able to train, i.e at least 2 epochs successfully complete. 0 % - Otherwise.
+
+2.1 Model trains (Out of 12)
+Model error decreases with epoch
+Do not give 50 %. Run the model present in the Jupyter notebook and see that the training error decreases with the number of epochs. Replace the generator function with the correct one if it's incorrect. 100 % - If the training error decreases with epoch. 0% - If the training error does not decrease with epoch.
+
+2.2 Accuracy
+out of 15 if Weightage alloted to the accuracy as per binning
+Use the .h5 file to calculate the accuracy on the test data. 100 % - accuracy >= 55%. 50 % - 55%> accuracy >= 40%. 0 % - accuracy
+
+Out of 8 if Weightage alloted to the accuracy/parameter = f as per binning
+Do not give 0%. accuracy: in percentage (for e.g 70%). parameter: in millions (for e.g 9.4 mil). 70/9.4 = 7.45. 100 % - f > = 7.45. 50 % - f < 7.45.
+
+2.3 Model Structure (out of 10)
+These will vary with the model submitted, convlstm/conv3d
+Conv3D: 100% - The block size decreases with depth; the number of filters increases with depth; Batch normalization is used. 50% - If none of the above is followed(model involves Conv3D) but model trains. 0% - None is followed and the model does not train. Conv + RNN: 100% - Transfer Learning is implemented successfully; GRU/LSTM is used with depth < 4. 50% - If none of the above is followed(model uses GRU/LSTM) but model trains. 0% - None is followed and the model does not train.
+
+3.1 Experimentations
+
+out of 7 if Experimentations have been started with smaller amount of data
+Do not give 0%. 100 % - Experiments have been started with small amount of data; reason for using more data should be logical(like accuracy was not increasing with changing architecture and model parameters, hence trying out more data). 50 % - Otherwise.
+
+Out of 8 if Both Conv3D and Conv+ RNN have been experimented with
+Do not give 0%. 100 % - Both Conv3D and Conv+RNN have been tried. 50 % - Otherwise.
+
+Out of 5 if The image size and the number of images used is as par with the solution
+100 % - Not all the images have been used in img_idx(some images have been skipped) and the image size is in range (70 - 140). 50 % - If either of the above has not been satisfied. 0 % - None of the two have been satisfied.
+
+Out of 10 if Weightage assigned to number of experiments performed
+An experiment refers to running the code(model) and recording the parameter/heuristic used to take decision of making change to the code/model. 100 % - number of experiments > 20. 50% - 20 > number of experiments >=10. 0 % - number of experiments < 10.
+
+Out of 15 if The reasoning used to move from one experiment to another should be logical.
+This is subjective to the grader. Awarded if no. of experiments > 5. 100% - If you find logic in the reasoning provided for the experimentation; no. of experiments > 5. 50 % - Part of the experimentations done have correct logic; ; no. of experiments > 5. 0 % - Experimentations are totally random.
+
+
