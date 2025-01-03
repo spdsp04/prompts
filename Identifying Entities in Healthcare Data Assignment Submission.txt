@@ -1,0 +1,67 @@
+for this attachment give scores based on below instruction. please share one liner reason for marks deduction and improvement advice. please suggest any better approach if possible.
+
+1.1 Out of 8 if Construct the proper sentences from individual words and print the 5 sentences along with their labels.
+Award 100% if the sentences has been formed correctly and printed the 5 sentences that have been formed. Award 50% if only sentences have been formed without printing the 5 sentences, else award 0.
+
+1.2 Count the number of sentences and label lines in train and test dataset
+
+Out of 8 if Print the count of the number of sentences in the processed train and test dataset
+Award 100% if the learner has counted the number of sentences in train and test data. Award 50% if learner has counted the number of sentences only in one of the dataset train or test, else 0.
+
+out of 4 if Count the number of lines of labels in the processed train and test dataset that learner has created
+Award 100% if the number of sentences in train/test dataset is equal to the number of lines of labels in train/test dataset. Else award 0.
+
+2. Concept Identification
+
+Out of 12 if Extract those tokens which have NOUN or PROPN as their PoS tag and find their frequency from the entire dataset which comprises both the train and the test datasets.
+Award 100% if learner has extracted all the tokens with NOUN and PROPN as their PoS tags with their frequency, else award 0.
+
+Out of 8 if Print the top 25 most common tokens with NOUN or PROPN PoS tags for the entire dataset which comprises both the train and the test datasets.
+Award 100% if learner has printed the top 25 most common tokens with NOUN and PROPN as their PoS tags.
+
+3. Defining features for CRF
+
+Out of 20 if Define the features with the PoS tag as one of the features
+Award 100% if learner has defined features with PoS tag as one of the features. Award 50% if learner didn't consider PoS tag as one of the features, else 0.
+
+Out of 20 if While defining features in which learners have used the PoS tags, learners need to consider the just previous of the current word too.
+Award 100% if learner has used the previous word to define the features, else 0.
+
+Out of 10 if Mark the beginning and the end words of a sentence correctly in the form of features.
+Award 100% if learner has correctly marked the begining and the end words in a sentence, else 0.
+
+4. Getting the features and the labels of sentences.
+
+Out of 14 if Write the code to get the features' value of a sentence.
+Award 100% if learner has correctly defined the function/steps to get the features' value of each token in a sentence, else 0.
+
+Out of 6 if Write the code to get a list of labels of a given preprocessed label line that you have created earlier.
+Award 100% if learner has correctly defined the function/steps to get the list of a given preprocessed lable line that learner has created earlier, else 0.
+
+5. Define input and target variables
+
+Out of 12 if Extract the features' values for each sentence as input variable for CRF model in test and the train datasets.
+Award 100% if learner has defined the features' values for each sentences as input variable for CRF model in test & train dataset. Award 50% if this is done on either test or train dataset, else 0.
+
+Out of 8 if Extract the labels as the target variable for the test and the train datasets.
+Award 100% if learner has defined the labels as the target variable for test & train dataset. Award 50% if this is done on either test or train dataset, else 0.
+
+6. Build the model
+
+Out of 10 if Build the CRF model for custom NER application
+Award 100% if learner has built the CRF model, else 0.
+
+7. Evaluation
+
+Out of 8 if Predict the labels of each of the tokens in each sentence of the test dataset that has been pre processed earlier.
+Award 100% if learner has predicted the labels of each sentences in test dataset, else 0.
+
+out of 12 if Calculate the f1 score using the actual labels and the predicted labels of the test dataset.
+Award 100% if learner gets the f1 score >85%. Award 50% if f1 score is between 70% to 85%, else 0.
+
+8. Identify the Diseases and Treatment using Custom NER
+out of 30 if Create the code or logic to get all the predicted treatments (T) labels corresponding to each disease (D) label in the test dataset.
+Award 100% if learner build the code or logic to get all the predicted treatment (T) labels corresponding to each disease (D) label in the test dataset, else 0.
+
+Out of 10 if Predict the treatment for the disease name: 'hereditary retinoblastoma'
+Award 100% if learner predicted the treatment for the disease name 'hereditary retinoblastoma' as 'radiotherapy'. Award 50% if it is different treatment than 'radiotherapy', else 0.
