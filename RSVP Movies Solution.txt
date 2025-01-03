@@ -1,0 +1,120 @@
+for this attachment give scores based on below instruction. please share one liner reason for marks deduction and improvement advice. please suggest any better approach if possible.
+
+1. Segment 1
+
+Out of 6 if 1.Find the total number of rows in each table of the schema.
+Award 100% if queries for all six tables were written.50% if queries for three or more tables were writtenbut not all.0 otherwise.
+
+Out of 6 if 2.Which columns in the 'movie' table have null values?
+Award 100% if all eight columns were checked for null values.50% if four or more columns were checked for null values but not all.0 otherwise.
+
+Out of 6 if 3.Find the total number of movies released in each year. How does the trend look monthwise? (Output expected)
+Award 100% if both the parts have been solved and the output format is as required.50% if only one part has been solved and the output format is as required.0 otherwise.
+
+Out of 6 if 4. How many movies were produced in the USA or India in the year 2019?
+Award 100% if code is correct and returns the correct output.50% if the right functions and filters are used but the output is not as required.0 otherwise.
+
+Out of 4 if 5. Find the unique list of the genres present in the data set.
+Award 100% if code is correct else 0
+
+Out of 6 if 6. Which genre had the highest number of movies produced overall?
+Award 100% if code is correct and returns the correct output. Award 50% if the right functions and keywords are used but the output is not as required. Award 0 otherwise
+
+Out of 8 if 7. How many movies belong to only one genre?
+Award 100% if code is correct and returns the correct output.Award 50% if the right functions and keywords are used but the output is not as required.Award 0 otherwise
+
+Out of 8 8. What is the average duration of movies in each genre?
+Award 100% if code is correct and output format is as required.Award 50% if code is correct and the required columns have been output but not in the correct format.Award 0 otherwise
+
+Out of 10 if 9. What is the rank of the ‘thriller’ genre of movies among all the genres in terms of number of movies produced?
+Award 100% if code is correct and output format is as required.Award 50% if code is correct and the required columns have been output but not in the correct format.Award 0 otherwise
+
+
+2. Segment 2
+
+Out of 8 if 10. Find the minimum and maximum values for each column of the 'ratings' table except the movie_id column.
+Award 100% if code is correct and output format is as required.50% if three or more columns have been output as required but not all.. 0 otherwise
+
+Out of 8 if 11. What are the top 10 movies based on average rating?
+Award 100% if code is correct and output format is as required.50% if the correct join type and functions have been used. However the obtained output doesn't match the expected output.0 otherwise
+
+out of 7 if 12. Summarise the ratings table based on the movie counts by median ratings.
+Award 100% if code is correct and output format is as required.50% if the right functions and keywords are used but the output is not as required.0 otherwise
+
+Out of 12 if 13. Which production house has produced the most number of hit movies (average rating > 8)?
+Award 100% if code is correct and output format is as required. 50% if the correct tables are joined using the correct join type a rank function has been used and the correct filters have been applied. However the obtained output doesn't match the expected output.0 otherwise
+
+Out of 10 if 14. How many movies released in each genre in March 2017 in the USA had more than 1000 votes?
+Award 100% if code is correct and output format is as required. 50% if the correct tables are joined using the correct join type but the obtained output doesn't match the expected output. 0 otherwise
+
+Out of 10 if 15. Find the movies in each genre that start with the characters ‘The’ and have an average rating > 8.
+Award 100% if code is correct and output format is as required. 50% if the correct tables are joined using the correct join type but the obtained output doesn't match the expected output. 0 otherwise
+
+Out of 8 if 16. Of the movies released between 1 April 2018 and 1 April 2019 how many were given a median rating of 8?
+Award 100% if code is correct and returns the correct output. 50% if the right functions and filters are used but the output is not as required.0 otherwise
+
+Out of 12 if 17. Do German movies get more votes than Italian movies? (Code expected)
+Award 100% if code is correct and output format is as required.50% if the correct tables are joined using the correct join type case statements and the correct functions have been used. However the obtained output doesn't match the expected output. 0 otherwise
+
+
+3. Segment 3
+
+Out of 4 if 18. Find the number of null values in each column of the 'names' table except for the 'id' column.
+Award 100% if all four columns were checked for null values.50% if two or more columns were checked for null values but not all.0 otherwise
+
+out if 12 if 19. Who are the top three directors in each of the top three genres whose movies have an average rating > 8?
+Award 100% if code is correct and output format is as required.50% if the correct tables are joined using the correct join type but the obtained output doesn't match the expected output.0 otherwise
+
+Out of 8 if 20. Who are the top two actors whose movies have a median rating >= 8?
+Award 100% if code is correct and output format is as required.50% if the correct tables are joined using the correct join type but the obtained output doesn't match the expected output.0 otherwise
+
+Out of 8 if 21. Which are the top three production houses based on the number of votes received by their movies?
+Award 100% if code is correct and output format is as required.50% if the correct join type and functions have been used. However the obtained output doesn't match the expected output.0 otherwise
+
+Out of 10 if 22. Rank actors with movies released in India based on their average ratings. Which actor is at the top of the list?
+Award 100% if code is correct and output format is as required.50% if the correct tables are joined using the correct join type but the obtained output doesn't match the expected output.0 otherwise
+
+Out of 12 if 23. Find the top five actresses in Hindi movies released in India based on their average ratings.
+Award 100% if code is correct and output format is as required.50% if the correct tables are joined using the correct join type but the obtained output doesn't match the expected output.0 otherwise
+
+Out of 6 if 24. Consider thriller movies having at least 25000 votes. Classify them according to their average ratings
+Award 100% if code is correct and output format is as required.50% if the correct tables are joined using the correct join type but the obtained output doesn't match the expected output.0 otherwise
+
+4. Segment 4
+
+out of 8 25. What is the genrewise running total and moving average of the average movie duration?
+Award 100% if code is correct and output format is as required.50% if the correct join type and functions have been used. However the obtained output doesn't match the expected output.0 otherwise
+
+Out of 15 if 26. Which are the five highestgrossing movies in each year for each of the top three genres?
+Award 100% if code is correct and output format is as required.50% if the correct tables are joined using the correct join type but the obtained output doesn't match the expected output.0 otherwise
+
+Out of 12 if 27. What are the top two production houses that have produced the highest number of hits (median rating >= 8) among multilingual movies?
+Award 100% if code is correct and output format is as required.50% if the correct tables are joined using the correct join type a rank function and the correct functions have been used. However the obtained output doesn't match the expected output.0 otherwise
+
+Out of 15 if 28. Who are the top 3 actresses based on the number of Super Hit movies (average rating > 8) in 'drama' genre?
+Award 100% if code is correct and output format is as required.50% if the correct tables are joined using the correct join type but the obtained output doesn't match the expected output.0 otherwise
+
+out of 25 if 29. Get the following details for top 9 directors (based on number of movies):
+Award 100% if code is correct and output format is as required.50% if the correct tables are joined using the correct join type and the right functions have been used.However the obtained output doesn't match the expected output.0 otherwise.
+
+5. Coding Guidelines
+
+out of 5 if 1. Proper formatting and indentation has been done. 2. Proper aliases are given wherever required.
+Award 100% if all coding guidelines have been followed.50% if some coding guidelines have been followed.0 otherwise
+
+Out of 5 if 3. Proper comments are written wherever required. 4. Descriptive and unambigous names are provided for new variables.
+Award 100% if all coding guidelines have been followed.50% if some coding guidelines have been followed.0 otherwise.
+
+Out of 5 if 5. The written code is optimised.
+Award 100% if all coding guidelines have been followed.50% if some coding guidelines have been followed.0 otherwise.
+
+6. Executive Summary
+
+Out of 5 if 1. The structure of the narrative is clear.
+Award 100% if the narrative incorporates extensive analysis based on the output of the written queries.50% if the narrative incorporates partial analysis based on the output of the written queries.0 otherwise.
+
+Out of 5 if 2. The content is concise and readable.
+Award 100% if the narrative incorporates extensive analysis based on the output of the written queries.50% if the narrative incorporates partial analysis based on the output of the written queries.0 otherwise.
+
+Out of 5 if 3. The narrative is backed by facts.
+Award 100% if the narrative incorporates extensive analysis based on the output of the written queries.50% if the narrative incorporates partial analysis based on the output of the written queries.0 otherwise.
