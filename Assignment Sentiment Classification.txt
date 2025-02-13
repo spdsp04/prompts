@@ -1,0 +1,50 @@
+Assignment: Sentiment Classification
+
+For the given attachment, please score based on below mentioned guidelines. Give best possible improvement advise and 
+reason if marks are deducted. 
+
+Task 1 (Out of 37)
+1.1 Data Pre-Processing using NLP
+(Out of 5)- Award 100% if this step has been correctly - Award 50% if the broad direction is correct, but there are some minor errors - Award 0% if not done, or done incorrectly.
+(Out of 4)- Award 100% if this step has been correctly - Award 50% if the broad direction is correct, but there are some minor errors - Award 0% if not done, or done incorrectly.
+(Out of 3)- Award 100% if this step has been correctly - Award 50% if the broad direction is correct, but there are some minor errors - Award 0% if not done, or done incorrectly.
+(Out of 3)- Award 100% if this step has been correctly - Award 50% if the broad direction is correct, but there are some minor errors - Award 0% if not done, or done incorrectly.
+
+1.2 Creating a n-gram Model
+
+(Out of 3) Data has been split to train and validation sets (- Award 100% if this step has been correctly - Award 50% if the broad direction is correct, but there are some minor errors - Award 0% if not done, or done incorrectly.)
+(Out of 5) TfidfVectorizer method has been loaded and fit on the train data using proper hyperparameters (- Award 100% if this step has been correctly - Award 50% if the broad direction is correct, but there are some minor errors - Award 0% if not done, or done incorrectly.)
+(Out of 5) TFidfVectorizer method has been used to transform the train data (- Award 100% if this step has been correctly - Award 50% if the broad direction is correct, but there are some minor errors - Award 0% if not done, or done incorrectly.)
+(Out of 5) TFidfVectorizer method has been used to transform the validation data (- Award 100% if this step has been correctly - Award 50% if the broad direction is correct, but there are some minor errors - Award 0% if not done, or done incorrectly.)
+(Out of 4) The sentiments have been label encoded (- Award 100% if this step has been correctly - Award 50% if the broad direction is correct, but there are some minor errors - Award 0% if not done, or done incorrectly.)
+
+2. Task 2 (out of 23)
+2.1 Conventional ML Model - Model Building
+(Out of 11) At least one of the conventional models listed in the stub notebook has been built (- Award 100% if this step has been correctly - Award 50% if the broad direction is correct, but there are some minor errors - Award 0% if not done, or done incorrectly.)
+
+2.2 Conventional ML Model - Hyperparameter Tuning
+(Out of 12) The model's hyperparameters have been properly tuned to obtain the best performance (- Award 100% if this step has been correctly - Award 50% if the broad direction is correct, but there are some minor errors - Award 0% if not done, or done incorrectly.)
+
+3. Task 3 (Out of 75)
+3.1 Deep Learning Model - Data set conversion
+(Out of 15) The data set is properly converted from a sparse matrix to a sparse tensor (- Award 100% if this step has been correctly - Award 50% if the broad direction is correct, but there are some minor errors - Award 0% if not done, or done incorrectly.)
+
+3.2 Deep Learning Model - Model Building
+(Out of 30) An FCFNN has been built upon the tf-idf data correctly (- Award 100% if this step has been correctly - Award 50% if the broad direction is correct, but there are some minor errors - Award 0% if not done, or done incorrectly.)
+
+3.3 Deep Learning Model - Hyperparameter Tuning
+(Out of 15) Proper hyperparameter tuning has been done using batch_size, epochs, etc. (- Award 100% if this step has been correctly - Award 50% if the broad direction is correct, but there are some minor errors - Award 0% if not done, or done incorrectly.)
+
+(Out of 15) Sufficient steps for taking care of overfitting and underfitting have been taken (- Award 100% if this step has been correctly - Award 50% if the broad direction is correct, but there are some minor errors - Award 0% if not done, or done incorrectly.)
+
+4. Task 4 (out of 15)
+4.1 Model Evaluation - Conventional ML Model
+(Out of 3) Measures like accuracy, precision, recall, etc. have been used to evalute the conventional ML model (- Award 100% if this step has been correctly - Award 50% if the broad direction is correct, but there are some minor errors - Award 0% if not done, or done incorrectly.)
+
+(Out of 4) Necessary graphs have been built to identify the best model parameters for the conventional ML model (- Award 100% if this step has been correctly - Award 50% if the broad direction is correct, but there are some minor errors - Award 0% if not done, or done incorrectly.)
+
+4.2 Model Evaluation - Deep Learning Model
+(Out of 4) Measures like accuracy,etc. have been used to evalute the deep learning model (- Award 100% if this step has been correctly - Award 50% if the broad direction is correct, but there are some minor errors - Award 0% if not done, or done incorrectly.)
+
+(Out of 4) Necessary graphs have been built to identify the best model parameters for the deep learning model (- Award 100% if this step has been correctly - Award 50% if the broad direction is correct, but there are some minor errors - Award 0% if not done, or done incorrectly.)
+
