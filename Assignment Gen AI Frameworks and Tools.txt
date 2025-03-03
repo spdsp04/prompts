@@ -37,19 +37,14 @@ Authentication (6 Marks): ❌ Missing authentication setup.
 🔹 Improvement: Ensure authentication is properly implemented, such as setting API keys or login mechanisms.
 
 
-
-generate_response function is missing.
-
 🔹 Improvement: Implement the generate_response function specifying model, temperature, max tokens, and prompt.
 
-Zero-Shot Prompting (15 Marks): ✅ Found 6 relevant cells.
-Few-Shot Prompting (15 Marks): ✅ Found 7 relevant cells.
-Chain-of-Thought Prompting (15 Marks): ❌ Not implemented.
-Instruction-based Prompting (15 Marks): ❌ Not implemented.
+Zero-Shot Prompting : ✅ Found 6 relevant cells.
+Few-Shot Prompting : ✅ Found 7 relevant cells.
+Chain-of-Thought Prompting : ❌ Not implemented.
+Instruction-based Prompting : ❌ Not implemented.
 
 🔹 Improvement: Implement Chain-of-Thought and Instruction-based prompting techniques.
-
-
 
 Only 1 evaluation cell found.
 
