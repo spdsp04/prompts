@@ -1,0 +1,72 @@
+Assignment Advanced Prompt Engineering
+
+For the given attachment, please score based on below mentioned guidelines. Give best possible improvement advise and 
+reason if marks are deducted.
+
+1. Setup
+NOTE: Code to install and import is already shared in the notebook. Make sure to run these cells.
+
+(A) In this section you are supposed to provide configuration details for authentication part to use the Azure OpenAI Service.
+
+(10 marks will be awarded on successful completion of this section)
+
+2. Assemble Data
+NOTE: Run all the cells of this section once you have written the code
+
+Provide the appropriate steps for assembling data undertaken for the dataset.The steps include:
+(A) Upload and Read csv File (8 marks)
+(B) Count Positive and Negative Sentiment Reviews (4 marks)
+(C) Split the Dataset (8 marks)
+
+(20 marks will be successfully awarded on completion this section)
+
+3. Derive/Create Prompt
+NOTE: Run all the cells of this section once you have written the code
+
+Derive/Create prompt will have following steps :
+(A) Write Zero Shot System Message (9 marks)
+(B) Create Zero Shot Prompt (6 marks)
+(C) Write Few Shot System Message (9 marks)
+(D) Create Examples For Few shot prompt (6 marks)
+(E) Create Few Shot Prompt (5 marks)
+
+(35 marks will be awarded on the successful completion of this section)
+
+4. Evaluation of Prompts
+NOTE: Run all the cells of this section once you have written the code
+
+Evaluation of prompt includes the steps below:
+
+(A) Evaluate Zero Shot Prompt (6 marks)
+(B) Evaluate Few Shot Prompt (6 marks)
+(C) Calculate Mean and Standard Deviation for Zero Shot and Few Shot (13 marks)
+
+(25 marks will be awarded on completion of this section)
+
+
+5. Summarize the Outcomes with respect to Business perspective
+NOTE: Run all the cells of this section once you have written the code
+
+(A) Based on the projects, learner needs to share observations and summary related to the business use case where it can be beneficial. (10 marks)
+
+(10 marks will be awarded on completion of this section)
+
+
+✅ Code for installing and importing dependencies is included.
+✅ API key is securely handled using userdata.get(), which is a best practice.
+
+✅ CSV file is uploaded and read.
+✅ Sentiment reviews are counted correctly.
+✅ Dataset is split properly.
+
+✅ Zero-shot system message is written.
+✅ Zero-shot prompt is created.
+✅ Few-shot system message is included.
+✅ Few-shot examples are provided.
+✅ Few-shot prompt is structured.
+✅ Additional context on product details is included, which enhances prompt effectiveness.
+
+✅ Zero-shot and few-shot prompts are evaluated.
+✅ Mean and standard deviation are calculated.
+✅ Comparison between zero-shot and few-shot performance is provided.
+✅ Evaluation includes reasoning on why few-shot performs better, which is great.
