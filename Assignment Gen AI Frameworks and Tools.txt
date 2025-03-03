@@ -1,0 +1,69 @@
+Assignment: Gen AI Frameworks and Tools
+
+For the given attachment, please score based on below mentioned guidelines. Give best possible improvement advise and 
+reason if marks are deducted.
+
+Step 1. Setup
+1.1 Installation (2 marks)
+1.2 Imports Libraries (2 marks)
+1.3 Authentication (6 marks)
+
+Step 2: Define Functions for Chatbot
+complete the generate_response function by specifying the model, temperature, max tokens, and prompt for generating chatbot responses (10 marks)
+
+Step 3: Derive Prompt
+Zero Shot Prompt Setup (15 Marks)
+Few-shot Prompt Setup (15 Marks)
+Chain-of-Thought Prompting (15 Marks)
+Instruction-based Prompting (15 Marks)
+Note: - make sure you run all the cells once you have written the code.
+
+Step 4: Evaluate Prompts
+Evaluate Zero-Shot Prompt (4 Marks)
+Evaluate Few-Shot Prompt (4 Marks)
+Role-Based Prompt Evaluation (4 Marks)
+Chain-of-Thought Prompting (4 Marks)
+Accuracy & Relevance Analysis (4 Marks)
+Note: - make sure you run all the cells once you have written the code.
+
+Run all the cells of this section once you have written the code (A) Based on the projects, learner needs to share observations and summary related to the business use case where it can be beneficial. (10 marks) (10 marks will be awarded on completion of this section)
+
+
+
+Installation (2 Marks): ✅ Present.
+Importing Libraries (2 Marks): ✅ Present.
+Authentication (6 Marks): ❌ Missing authentication setup.
+
+🔹 Improvement: Ensure authentication is properly implemented, such as setting API keys or login mechanisms.
+
+
+
+generate_response function is missing.
+
+🔹 Improvement: Implement the generate_response function specifying model, temperature, max tokens, and prompt.
+
+Zero-Shot Prompting (15 Marks): ✅ Found 6 relevant cells.
+Few-Shot Prompting (15 Marks): ✅ Found 7 relevant cells.
+Chain-of-Thought Prompting (15 Marks): ❌ Not implemented.
+Instruction-based Prompting (15 Marks): ❌ Not implemented.
+
+🔹 Improvement: Implement Chain-of-Thought and Instruction-based prompting techniques.
+
+
+
+Only 1 evaluation cell found.
+
+🔹 Improvement: Expand the evaluation section to cover:
+
+Zero-Shot
+Few-Shot
+Role-Based
+Chain-of-Thought
+Accuracy & Relevance Analysis
+
+
+
+✅ Exists (1 markdown cell found).
+
+🔹 Improvement: Ensure the observations clearly explain how the project benefits a real-world business use case.
+
