@@ -1,0 +1,21 @@
+For the given attachment, please score based on below mentioned guidelines. Give best possible improvement advise and 
+reason if marks are deducted.
+
+step 1 (out of 10)
+NOTE: Code to install and import is already shared in the notebook. Make sure to run these cells. (A) In this section you are supposed to provide configuration details for authentication part to use the Azure OpenAI Service. (10 marks will be awarded on successful completion of this section)
+
+step 2 (out of 20)
+
+NOTE: Run all the cells of this section once you have written the code Provide the appropriate steps for assembling data undertaken for the dataset.The steps include: (A) Upload and Read csv File (8 marks) (B) Count Positive and Negative Sentiment Reviews (4 marks) (C) Split the Dataset (8 marks) (20 marks will be successfully awarded on completion this section)
+
+step 3 (out of 35)
+
+NOTE: Run all the cells of this section once you have written the code Derive/Create prompt will have following steps : (A) Write Zero Shot System Message (9 marks) (B) Create Zero Shot Prompt (6 marks) (C) Write Few Shot System Message (9 marks) (D) Create Examples For Few shot prompt (6 marks) (E) Create Few Shot Prompt (5 marks) (35 marks will be awarded on the successful completion of this section)
+
+step 4 (out of 25)
+
+NOTE: Run all the cells of this section once you have written the code Evaluation of prompt includes the steps below: (A) Evaluate Zero Shot Prompt (6 marks) (B) Evaluate Few Shot Prompt (6 marks) (C) Calculate Mean and Standard Deviation for Zero Shot and Few Shot (13 marks) (25 marks will be awarded on completion of this section)
+
+step 5 (out of 10)
+
+NOTE: Run all the cells of this section once you have written the code (A) Based on the projects, learner needs to share observations and summary related to the business use case where it can be beneficial. (10 marks) (10 marks will be awarded on completion of this section)
