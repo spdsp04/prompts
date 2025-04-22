@@ -1,0 +1,20 @@
+Gen AI Frameworks and Tools
+
+write comment to give marks and improvement suggestions for attachment as per below mentioned steps
+
+step 2 write comment to give marks and improvement suggestions if below activities done  i have deduction 2 marks so go accordingly
+
+Run all the cells of this section once you have written the code Provide the appropriate steps for assembling data undertaken for the dataset.The steps include: (A) Upload and Read csv File (8 marks) (B) Count Positive and Negative Sentiment Reviews (4 marks) (C) Split the Dataset (8 marks) (20 marks will be successfully awarded on completion this section)
+
+step 3 write comment to give marks and improvement suggestions if below activities done  i have deduction 3 marks so go accordingly
+
+Run all the cells of this section once you have written the code Derive/Create prompt will have following steps : (A) Write Zero Shot System Message (9 marks) (B) Create Zero Shot Prompt (6 marks) (C) Write Few Shot System Message (9 marks) (D) Create Examples For Few shot prompt (6 marks) (E) Create Few Shot Prompt (5 marks) (35 marks will be awarded on the successful completion of this section)
+
+step 4 write comment to give marks and improvement suggestions if below activities done  i have deduction 13 marks so go accordingly. cells do not have output
+
+Run all the cells of this section once you have written the code Evaluation of prompt includes the steps below: (A) Evaluate Zero Shot Prompt (6 marks) (B) Evaluate Few Shot Prompt (6 marks) (C) Calculate Mean and Standard Deviation for Zero Shot and Few Shot (13 marks) (25 marks will be awarded on completion of this section)
+
+
+step 5 write comment to give marks and improvement suggestions if below activities are not done  i have deduction 2 marks so go accordingly
+
+Run all the cells of this section once you have written the code (A) Based on the projects, learner needs to share observations and summary related to the business use case where it can be beneficial. (10 marks) (10 marks will be awarded on completion of this section)
