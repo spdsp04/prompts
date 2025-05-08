@@ -1,9 +1,8 @@
-<p><span style="color:blue;"><b>Milk</b></span><br>
-<span style="color:red;"><b>मिल्क</b></span><br>
-<span style="color:green;"><b>दूध</b></span></p>
+<p><span style="color:blue;"><b>I am Mira's brother. My name is Aditya. I am ten years old. I study in class 4.</b></span><br>
+<span style="color:red;"><b>आय ऐम मीरा स ब्रदर। माय नेम इज आदित्य। आय ऐम टेन ईयर्स ओल्ड । आय स्टडी इन क्लास 4</b></span><br>
+<span style="color:green;"><b>मैं मीरा का भाई हूं। मेरा नाम आदित्य है। मेरी उम्र दस साल है। मैं कक्षा 4 में पढ़ता हूं।</b></span></p>
 
-
-write all below lines in above format for onenote
+write all below lines in above format 
 
 **Exercises (Learning & Understanding Skills, Thinking Skills, Picture-based Learning)**  
 
