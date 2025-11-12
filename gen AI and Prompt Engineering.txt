@@ -1,0 +1,25 @@
+step 2 write comment to give marks and improvement suggestions if below activities done  i have deduction 3 marks so go accordingly 
+Write down the zero shot prompt (1 marks), and the message roles (1 marks) to generate lesson hooks for a grade 8 topic, extract the model response (2 marks), and print the response of the model (1 marks).
+
+step 3 write comment to give marks and improvement suggestions if below activities done  i have deduction 1 marks so go accordingly 
+Refine the response of the model in Question 2 by using two or more values of temperature. (2 marks) Write down your insights after running all the prompts. (3 marks)
+
+step 4 write comment to give marks and improvement suggestions if below activities done  i have deduction 2 marks so go accordingly 
+Define the system message for a few shot prompt messages. (2 marks) Write down your insights from the response (3 marks)
+
+step 5 write comment to give marks and improvement suggestions if below activities done  i have deduction 5 marks so go accordingly 
+Create a chain of thought prompt using the criteria mentioned in the notebook as a reference. (5 marks) Print out the response of the model and display atleast 2 choices that the model has provided as a response (5 marks)
+
+step 6 write comment to give marks and improvement suggestions if below activities done  i have deduction 4 marks so go accordingly 
+Refine the prompt by including clear, concrete examples that the model can reference as guidance, which helps it better understand the desired structure and style of the output. (5 marks) Additionally, experiment with adjusting the top-p (nucleus sampling) values to introduce variation in the generated responses (5 marks)
+
+step 7 write comment to give marks and improvement suggestions if below activities done  i have deduction 2 marks so go accordingly 
+Apply penalties (such as frequency or presence penalties) to control repetition and encourage variety in the model’s output. (2 marks) After doing this, you should write down your insights on how these penalties influenced the responses — for example, noting whether the answers became less repetitive, more creative, or more focused. The goal is to show that you can both use penalties effectively and reflect thoughtfully on the changes they produce. (3 marks)
+
+step 8 write comment to give marks and improvement suggestions if below activities done  i have deduction 3 marks so go accordingly 
+Overall notebook should have: a. Well commented code b. Structure and flow (5 marks)
+
+
+
+
+
