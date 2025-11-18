@@ -1,20 +1,60 @@
 Gen AI Frameworks and Tools
 
-write comment to give marks and improvement suggestions for attachment as per below mentioned steps
+Excellent work! You have successfully completed the authentication and configuration setup for Azure OpenAI Service. The required configuration details such as the Azure OpenAI endpoint, API key, and API version/model name were clearly provided and properly assigned within the notebook. This allows secure and seamless access to the Azure OpenAI model. The configuration cells were executed correctly, ensuring that the environment is authenticated and ready for subsequent steps. Overall, this section meets all the requirements and demonstrates a strong understanding of Azure OpenAI setup.
 
-step 2 write comment to give marks and improvement suggestions if below activities done  i have deduction 2 marks so go accordingly
+Great job! You have successfully completed all the required data assembly steps in this section. The CSV file was uploaded and read correctly, and the dataset was loaded without errors, fulfilling Part A (8 marks). You also computed and displayed the count of positive vs. negative sentiment reviews accurately, satisfying Part B (4 marks). Additionally, the dataset was properly split into training and testing sets, ensuring a valid distribution for model building, fulfilling Part C (8 marks). Overall, this section is well-executed and demonstrates a clear understanding of the required preprocessing steps.
 
-Run all the cells of this section once you have written the code Provide the appropriate steps for assembling data undertaken for the dataset.The steps include: (A) Upload and Read csv File (8 marks) (B) Count Positive and Negative Sentiment Reviews (4 marks) (C) Split the Dataset (8 marks) (20 marks will be successfully awarded on completion this section)
-
-step 3 write comment to give marks and improvement suggestions if below activities done  i have deduction 3 marks so go accordingly
-
-Run all the cells of this section once you have written the code Derive/Create prompt will have following steps : (A) Write Zero Shot System Message (9 marks) (B) Create Zero Shot Prompt (6 marks) (C) Write Few Shot System Message (9 marks) (D) Create Examples For Few shot prompt (6 marks) (E) Create Few Shot Prompt (5 marks) (35 marks will be awarded on the successful completion of this section)
-
-step 4 write comment to give marks and improvement suggestions if below activities done  i have deduction 13 marks so go accordingly. cells do not have output
-
-Run all the cells of this section once you have written the code Evaluation of prompt includes the steps below: (A) Evaluate Zero Shot Prompt (6 marks) (B) Evaluate Few Shot Prompt (6 marks) (C) Calculate Mean and Standard Deviation for Zero Shot and Few Shot (13 marks) (25 marks will be awarded on completion of this section)
+You have successfully completed this section with clear and relevant observations. The summary effectively explains how the project outcomes connect to real business use cases and demonstrates a good understanding of the practical value of the solution. Your explanation clearly highlights how sentiment insights can support decision-making, improve customer experience, and guide product or service enhancements. The structure and clarity meet the expected requirements, fulfilling all criteria without any deductions.
 
 
-step 5 write comment to give marks and improvement suggestions if below activities are not done  i have deduction 2 marks so go accordingly
+max length : 500
+step 3 write comment to give marks and improvement suggestions if below activities done  i have deduction 3 marks so go accordingly 
+do not use emojis. 
 
-Run all the cells of this section once you have written the code (A) Based on the projects, learner needs to share observations and summary related to the business use case where it can be beneficial. (10 marks) (10 marks will be awarded on completion of this section)
+NOTE: Run all the cells of this section once you have written the code Derive/Create prompt will have following steps : (A) Write Zero Shot System Message (9 marks) (B) Create Zero Shot Prompt (6 marks) (C) Write Few Shot System Message (9 marks) (D) Create Examples For Few shot prompt (6 marks) (E) Create Few Shot Prompt (5 marks) (35 marks will be awarded on the successful completion of this section)
+
+max length : 500
+step 4 write comment to give marks and improvement suggestions if below activities done  i have deduction 3 marks so go accordingly. do not use emojis. 
+
+NOTE: Run all the cells of this section once you have written the code Evaluation of prompt includes the steps below: (A) Evaluate Zero Shot Prompt (6 marks) (B) Evaluate Few Shot Prompt (6 marks) (C) Calculate Mean and Standard Deviation for Zero Shot and Few Shot (13 marks) (25 marks will be awarded on completion of this section)
+
+max length : 500
+step 5 write comment to give marks and improvement suggestions if below activities done  i have deduction 3 marks so go accordingly
+do not use emojis. 
+
+NOTE: Run all the cells of this section once you have written the code (A) Based on the projects, learner needs to share observations and summary related to the business use case where it can be beneficial. (10 marks) (10 marks will be awarded on completion of this section)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+max length : 500
+step 1 write comment to give marks and improvement suggestions if below activities done  i have deduction 5 marks so go accordingly 
+do not use emojis. 
+
+NOTE: Code to install and import is already shared in the notebook. Make sure to run these cells. (A) In this section you are supposed to provide configuration details for authentication part to use the Azure OpenAI Service. (10 marks will be awarded on successful completion of this section)
+
+please consider below mentioned error 
+
+ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.
+google-colab 1.0.0 requires requests==2.31.0, but you have requests 2.32.3 which is incompatible.
+
+max length : 1000
+step 2 write comment to give marks and improvement suggestions if below activities done  i have deduction 10 marks so go accordingly 
+do not use emojis. 
+
+NOTE: Run all the cells of this section once you have written the code Provide the appropriate steps for assembling data undertaken for the dataset.The steps include: (A) Upload and Read csv File (8 marks) (B) Count Positive and Negative Sentiment Reviews (4 marks) (C) Split the Dataset (8 marks) (20 marks will be successfully awarded on completion this section)
+
+please consider below mentioned error 
+
+ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.
+google-colab 1.0.0 requires requests==2.31.0, but you have requests 2.32.3 which is incompatible.
